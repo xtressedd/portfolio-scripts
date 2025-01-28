@@ -37,4 +37,4 @@ done
 echo "Resultado: $result"
 
 #otra solución más sencilla, con lógica simple y sin  operadores lógicos jiji // another solution less complex, without logic operators jiji
-#echo $(( ${2:-0} $1 ${3:-0} $1 ${4:-0} $1 ${5:-0} $1 ${6:-0} $1 ${7:-0} $1 ${8:-0} $1 ${9:-0} $1 ${10:-0} ))
+#echo $(( $@ )) 
