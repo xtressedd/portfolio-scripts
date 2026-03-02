@@ -1,4 +1,4 @@
-# portfolio-scripts# Bash Calculator 🖩
+# Bash Calculator 🖩
 
 A simple yet powerful calculator script written in Bash that allows you to perform basic arithmetic operations directly from the command line. It supports **addition (+)**, **subtraction (-)**, **multiplication (*)**, and **division (/)** for up to 9 numbers.
 
